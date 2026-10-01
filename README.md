@@ -23,5 +23,3 @@ Multiple Runway Sites
  - Barracks available to hire Kerbals for facilities
  - Large scale Science facilities available to invest in
  - Large scale Business facilities available to invest in
-
-Support for Panocean Canal, The Outpost, and Kambridge University (unreleased) mods.
