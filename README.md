@@ -6,7 +6,7 @@ Caerfinon's Kerbal Konstructs World
 Airstrips 
  - Maximum launch of 10 ton craft
  - Hangar can store 3 vessels no larger than 25 tons
- - Refuelling facilities at 10 times normal buy costs. Selling no allowed
+ - Refuelling facilities at 10 times normal buy costs. Selling not allowed
 
 Single Runway Sites
  - No limits on launch
