@@ -1,0 +1,117 @@
+Version 2.2 - Signs of the Times
++Signs!
+	They're Canadian, as I am Canadian.
+
++Billboards!
+	Make your own billboards! Simply replace any image in the Billboards folder. Make sure it has a 2:1 ratio (e.g 1024x512, 2048x1024)
+
++Banked Curves!
+	A 45 degree banked curve and a 90 degree banked curve.
+
++Parts to get onto banked curves!
+
+-Last update for a while.
+
+Note: It may take a while for the game to place all the statics. Loading time will increase.
+------------------------------------------------------
+Version 2.1.0.1
++DDS Textures!
+	Quicker loading and less memory usage
++It's a release version of 2.1 with updates
+------------------------------------------------------
+Version 2.1 (unreleased, 2.1.0.1 includes all below)
++Modular Racetrack Parts!
+	Brand new racetrack parts as modular as you can get em!
+		The list of parts is too long! Play the game and find them all out :)
+		
++Scenery
+	New Scenery items to make racetracks easier to make
+		Grass block - Set it at the same height as your racetrack parts and it will always be a tad lower.
+		Faux Mountain - Fake mountain (Kinda polygonal, might update model in future)
+		Faux Terrain - Simple hill
+		Pit Garage - It's also a launchsite! LAunch your cars right near your track instead of driving wherever you've built it
+		Fence - it's a fence
+		Barrier - it's a barrier
+		
++Stunts (By amankduffer!)
+	Stunt parts by my mod parter, amankduffer!
+		Loop
+		Double width ramp
+		Single width ramp
+		Barrel roll ramp
+		Small ramp
+	
++Hazard Racetrack Parts
+	Sandtrap - bumpy sandy trap for pushing others into
+	
++Claimed FASTCORP Island!
+	Check out the forum post for images on where FASTCORP Island is!
+
++FASTCORP Island Silverstone Replica
+	Custom Silverstone circuit replica on FASTCORP Island!
+	
++FASTCORP Island Stunt Park
+	Custom Stunt Park containing amankduffers Stunt Parts!
+	
++FASTCORP Island Terminal
+	Airplane Terminal for landing your planes containing your cars!
+
++Support for Konstructs' Custom Instance Importer
+	All custom instances are now located in the "Customs" folder. Delete anything you don't want in there.
+
+-Bug identification
+	Konstructs creates spaces between my models, and because of this your racetracks/roadways will not be 100% flat. I don't have a way to fix this.
+------------------------------------------------------
+Version 2.0.1
++Fixed crappy highway placement in fist stretch.
+------------------------------------------------------
+Version 2.0 - "Highways to the Danger Zones"
++Texture Overhaul!
+	Brand new textures with bump maps! All with the small size of 22MB for all pieces!
+
++New Parts!
+	Highway parts!
+		Straight
+		Curve
+		Slope
+		Hump
+		Split Left/Right
+		Off/OnRamp Left/Right
+		Pillar
+		Highway Light
+
+	The first Racing parts!
+		One-Way Race Start block
+		Chequered Start/Finish Line with confetti
+		
+	Standard Roadways
+		New Street Lamp model
+		Intersection
+		Adapter
+		Sloped Straight Bridge, both short and long slope compatible
+
++Highway/Racetrack to Kerbin City
+	Technically needs Kerbin City, but not really.
+
+-Origin Fixing
+	The origins of all parts were moved to be in a corner of the object.
+	This will mess up road systems
+
+---------------------------------------------------------
+Version 1.1
++New Parts!
+	Extra Large Curve with bridge version
+	Small Curve with bridge version
+	Small Hump sidewalk version
+	Small Slope bridge version
+	Long Slope with bridge version
+	Long Hump with bridge version
+	
+*Note with slopes and humps - Large and Small humps/slopes are NOT compatible with each other.
+
+-Removed Demo Track
+	You can still get it back by replacing ONLY the .cfg files from the previous version.
+---------------------------------------------------------
+Version 1
+
+First Release
