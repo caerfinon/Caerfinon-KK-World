@@ -11,7 +11,8 @@ If you have these mods installed already, you can remove them, or delete them fr
 - **Kerbin Side Remastered** - Used for Statics only. **Strongly recommend** deleting the directory /Statics/ExampleBases 
 - **KerbinSide Core** - (From CKAN) Collection of original Kerbinside Statics. No bases are provided.
 - **Omega's Stockalike Structures: No Textures Required** - Collection of Statics
-- **Ordinary Konstuction Co.** - Collection of Statics - The example base makes changes to the Island Airfield. This can be kept or removed.   
+- **Ordinary Konstuction Co.** - Collection of Statics - The example base makes changes to the Island Airfield. This can be kept or removed.
+- **Tundra's Space Center** - Collection of Statics 
 - **ModuleManager** - required for patches
 
 ## Recomended Mods   
@@ -36,7 +37,7 @@ Copy the **Caerfinon-KK-World** folder into your GameData File
 ###  KramaxAutoPilot
 The folder **KramaxAutoPilot** contains only modified files for flightplans.
 It removes the default flightplans so that only ones from the **Caerfinon-KK-World** patches will be loaded
-If you do not use this, the new patch will still load the flightplans but you will also have all of the default flightplans that may or may not be present on your world.  
+If you do not use this, the new patch will still load the flightplans but you will also have all of the default flightplans that may or may not be present on your world. 
 Use only if you have Kramax Auto Pilot installed. Copy the **KramaxAutoPilot** folder into your GameData folder. It will overwrite the flightplan files
 
 ## Navutilities Updated
