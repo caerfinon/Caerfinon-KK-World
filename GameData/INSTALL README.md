@@ -25,7 +25,7 @@ If you have these mods installed already, you can remove them, or delete them fr
 ## Conflicting Mods
 - **Kerbin Side Remastered Gap Extras** - Statics reused in Caerfinon-KK-World already
 - **Panocean Canal** - Statics reused in Caerfinon-KK-World already
-- **The Outpost** - Statics reused in Caerfinon-KK-World already. Sound Cude commented out.
+- **The Outpost** - Statics reused in Caerfinon-KK-World already. Sound Cube commented out.
 - **Kerbin Side Remastered GAP** - Not recomended if you left the Kerbin Side Remastered bases installed. Better yet would be to use the GAPFAS template to add the Kerbin Side Remastered bases to GAPFAS  
     
 

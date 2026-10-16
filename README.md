@@ -10,7 +10,7 @@ Airstrips
 
 Single Runway Sites
  - No limits on launch
- - May include helipad launch site restricted to 40 tons
+ - May include helipad launch site restricted to 30 tons
  - Refuelling at normal costs. Selling allowed
  - Barracks available to hire Kerbals for facilities
  - Small scale Science facilities available to invest in
@@ -18,7 +18,7 @@ Single Runway Sites
 
 Multiple Runway Sites
  - No limits on launch
- - May include helipad launch site restricted to 40 tons
+ - May include helipad launch site restricted to 30 tons
  - Refuelling at normal costs. Selling allowed
  - Barracks available to hire Kerbals for facilities
  - Large scale Science facilities available to invest in
@@ -28,6 +28,6 @@ Ports
  - All ports include a Helipad
  - Refuelling at normal costs. Selling allowed
  - No limits on Water Launches
- - Helipad launches restricted to 40 tons
+ - Helipad launches restricted to 30 tons
  - Hangar can store 3 vessels no larger than 25 tons
    
