@@ -1,7 +1,7 @@
 # Caerfinon-KK-World
 Caerfinon's Kerbal Konstructs World
 
-![Map](https://github.com/caerfinon/Caerfinon-KK-World/blob/main/GameData/Caerfinon-KK-World/Assets/Maps/Caerfinon-KK-World.png?raw=true)
+<img width="1250" height="625" alt="Caerfinon-KK-World - Profile Pic" src="https://github.com/user-attachments/assets/71fa8755-cd28-4fd3-9acb-972eeead7fcd" />
 
 Airstrips 
  - Maximum launch of 10 ton craft
