@@ -21,6 +21,8 @@ If you have these mods installed already, you can remove them, or delete them fr
 - **GAPFAS** - A contract pack for providing missions to the various bases provided by Caerfinon-KK-World. Supported with a patch to provide all base locations to GAPFAS 
 - **Contract Configurator** - required for GAPFAS
 - **Waypoint Manager** - required for GAPFAS
+- **AtmosphereAutopilot** - a modular atmospheric flight control system library 
+- **Approach Autopilot** - extends AtmosphereAutopilot with an additional mode to make landing approaches to NAVUtilities defined runways 
 
 ## Conflicting Mods
 - **Kerbin Side Remastered Gap Extras** - Statics reused in Caerfinon-KK-World already
